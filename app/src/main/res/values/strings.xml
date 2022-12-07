@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">9章課題：K020C1094</string>
+    <string name="tv_name">名前：</string>
+    <string name="tv_possession_money">所持金：</string>
+    <string name="shop1">ゲームショップ</string>
+    <string name="shop2">スーパー</string>
+    <string name="bt_banks">銀行</string>
+    <string name="bt_back_to_home">最初の画面に戻る</string>
+    <string name="msg_success">ご購入ありがとうございます</string>
+    <string name="msg_ng">所持金が足りません</string>
+    <string name="tv_back">引き出し：</string>
+    <string name="bt_confirmation">確認</string>
+    <string name="bt_back_to_list">リストに戻る</string>
+    <string name="bt_back">戻る</string>
+    <string name="toast_ng1">数値を入力してください</string>
+    <string name="toast_ng2">引き出す額が所持金より多いです</string>
+    <string name="toast_ng3">値が入力されていません</string>
+    <string name="msg_withdraw_money">円引き出しました</string>
+    <string name="tv_menu_unit">円</string>
+    <string name="menu_list_options_vegetable">野菜</string>
+    <string name="menu_list_options_fruit">果物</string>
+    <string name="menu_list_options_other">その他</string>
+    <string name="menu_list_context_desc">説明を表示</string>
+    <string name="menu_list_context_order">購入</string>
+    <string name="menu_list_context_header">操作を選んでください。</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
